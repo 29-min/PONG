@@ -57,5 +57,6 @@ class GameLogic:
             - Y-axis velocity (i.e., self.ball.velocity[1]) reverses
         IF ball hits paddle
             - X-axis velocity reverses
+            ddd
         """
 
