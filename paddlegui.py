@@ -47,3 +47,5 @@ class PaddleGUI(Paddle):
         self.velocity[1] = 0
         self.canvas.moveto(self.gui_obj, self.position[0], self.position[1])
         self.canvas.itemconfig(self.score_label, text=" Score: " + str(self.score))
+
+"""commit test"""
